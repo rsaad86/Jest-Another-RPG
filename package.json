@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "My Jest RPG package json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rsaad86/Jest-Another-RPG.git"
+  },
+  "keywords": [
+    "Jest"
+  ],
+  "author": "Rani Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsaad86/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/rsaad86/Jest-Another-RPG#readme"
+}
